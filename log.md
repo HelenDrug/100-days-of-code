@@ -9,14 +9,12 @@ Finishing Tribute page for freecodecamp.org assigment
 
 **Link to work:** https://codepen.io/OlenaDrugalya/pen/xxGxXWW
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 28, 2020
+##### Starting to work on Survey Form for FCC assigment
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Wrote HTML for the form including different types of inputs (text, email, number) and dropdown selector. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://codepen.io/OlenaDrugalya/pen/LYVyrWy
 
 
 ### Day 1: June 27, Monday
