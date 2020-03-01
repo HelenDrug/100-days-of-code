@@ -17,12 +17,9 @@ Finishing Tribute page for freecodecamp.org assigment
 **Link(s) to work**: https://codepen.io/OlenaDrugalya/pen/LYVyrWy
 
 
-### Day 1: June 27, Monday
+### Day 3: February 29, 2020
+Continue to work on Survey Form for FCC assignment
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've finiahed selectors with dropdown options and radio button group. Left checkboxes for tomorrow :) 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: https://codepen.io/OlenaDrugalya/pen/LYVyrWy, blogpost to follow - https://olenadrugalya.blog/2020/02/28/100-days-of-code-and-me/
