@@ -38,4 +38,12 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Added Bootsrap to HTML, started to work on CSS
 **Thoughts:** Re-wrote some of HTML to make it responsive and started to write CSS - looks like a lot of work ahead :)
 
-**Link(s) to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
+**Link to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
+
+### Day 7: March 5, 2020
+##### Continue to work on Survey Form for FCC assigment
+
+**Today's Progress**: Added Bootsrap to HTML
+**Thoughts:** Re-wrote whole HTML and form now uses Form class from Bootstrap - groups, controls etc. Survey form looks now much more prettier and I learned how to make forms with Bootstrap!
+
+**Link to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
