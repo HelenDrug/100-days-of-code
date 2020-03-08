@@ -53,3 +53,9 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Re-wrot Finished CSS – yay!
 **Thoughts:** Wrote CSS for the form and job is official done! So happy and its time to reward myself 😉
 **Link to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
+
+### Day 10: March 8, 2020
+##### Started Product Landing page for freeCodeCamp assigment
+**Today's Progress**: Finished half of HTML for the page
+**Thoughts:** Started to write HTML for page - finished header, form and 2 sections with features and video
+**Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
