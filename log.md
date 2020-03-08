@@ -47,3 +47,9 @@ Continue to work on Survey Form for FCC assignment
 **Thoughts:** Re-wrote whole HTML and form now uses Form class from Bootstrap - groups, controls etc. Survey form looks now much more prettier and I learned how to make forms with Bootstrap!
 
 **Link to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
+
+### Day 8 and 9: March 7, 2020
+##### Finished Survey Form for FCC assigment
+**Today's Progress**: Re-wrot Finished CSS – yay!
+**Thoughts:** Wrote CSS for the form and job is official done! So happy and its time to reward myself 😉
+**Link to work**: https://codepen.io/OlenaDrugalya/full/LYVyrWy
