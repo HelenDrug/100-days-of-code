@@ -59,3 +59,16 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Finished half of HTML for the page
 **Thoughts:** Started to write HTML for page - finished header, form and 2 sections with features and video
 **Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
+
+### Day 11: March 9, 2020
+##### Product Landing page for freeCodeCamp assigment
+**Today's Progress**: Finished whole HTML for the page and started CSS
+**Thoughts:** Finished HTML for all sections and footer, started to write CSS for global classes and elements. Had difficulty with Flexbox understanding, guess it comes with practice.  
+**Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
+
+### Day 12: March 10, 2020
+##### Product Landing page for freeCodeCamp assigment
+**Today's Progress**: Continue to work under CSS
+**Thoughts:** Watched a video about CSS Flexbox display with @learnwebcode, finished CSS for header and form, started features section. Lokks prettier now :)
+**Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
+
