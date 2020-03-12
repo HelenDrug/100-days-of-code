@@ -72,3 +72,13 @@ Continue to work on Survey Form for FCC assignment
 **Thoughts:** Watched a video about CSS Flexbox display with @learnwebcode, finished CSS for header and form, started features section. Lokks prettier now :)
 **Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
 
+### Day 13: March 11, 2020
+##### Product Landing page for freeCodeCamp assigment
+**Today's Progress**: Project finished
+**Thoughts:** Finished CSS for the page and understood how it is easy with Flexbox to style elements!
+**Link to work**: https://codepen.io/OlenaDrugalya/full/wvaPRZM
+
+### Day 14: March 12, 2020
+##### Blog page
+**Today's Progress**: Worked under blog page for my husband, so now almost finished new look :) really was difficult to find time to code becasue of the quarantine in Denmark :(
+**Link to work**: http://drugalya.com
