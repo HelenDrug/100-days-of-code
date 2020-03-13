@@ -82,3 +82,10 @@ Continue to work on Survey Form for FCC assignment
 ##### Blog page
 **Today's Progress**: Worked under blog page for my husband, so now almost finished new look :) really was difficult to find time to code becasue of the quarantine in Denmark :(
 **Link to work**: http://drugalya.com
+
+### Day 15: March 13, 2020
+##### Technical Product Page for freeCodeCamp assignment
+**Today's Progress**: Started HTML for the page
+**Thoughts:** Almost half of the main page is done, boring stuff :) Cannot wait to have fun with CSS!
+**Link to work**: https://codepen.io/OlenaDrugalya/full/VwLXrvo
+
