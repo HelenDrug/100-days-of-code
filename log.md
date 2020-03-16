@@ -89,3 +89,8 @@ Continue to work on Survey Form for FCC assignment
 **Thoughts:** Almost half of the main page is done, boring stuff :) Cannot wait to have fun with CSS!
 **Link to work**: https://codepen.io/OlenaDrugalya/full/VwLXrvo
 
+### Day 16,17 AND 18: March 16, 2020
+##### Wordpress blog page
+**Today's Progress**: For the last 3 days I was working on the blog page for Yan Drugalya. I did code everyday between taking care of kids and housework because of the carantene :) The page is pretty much done
+**Link to work**: https://drugalya.com
+
