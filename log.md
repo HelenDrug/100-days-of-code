@@ -99,3 +99,9 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Finished sections Talks and Blogs and made new Contact page. Officially done!
 **Link to work**: https://drugalya.com
 
+### Day 20: March 18, 2020
+##### Personal Portfolio page for freeCodeCamp
+**Today's Progress**: Started the 5th and the last project for Responsive Webdesign certification - Personal Portfolio page. Finished HTML today - it does look not fancy for now :)
+**Link to work**: https://codepen.io/OlenaDrugalya/full/rNVKprE
+
+
