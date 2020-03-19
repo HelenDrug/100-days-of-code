@@ -104,4 +104,8 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Started the 5th and the last project for Responsive Webdesign certification - Personal Portfolio page. Finished HTML today - it does look not fancy for now :)
 **Link to work**: https://codepen.io/OlenaDrugalya/full/rNVKprE
 
+### Day 21: March 19, 2020
+##### Personal Portfolio page for freeCodeCamp
+**Today's Progress**: Finished all CSS today - this time project took me only 2 days :) Finally I not scared of FlexBox anymore!
+**Link to work**: https://codepen.io/OlenaDrugalya/full/rNVKprE
 
