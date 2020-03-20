@@ -109,3 +109,9 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Finished all CSS today - this time project took me only 2 days :) Finally I not scared of FlexBox anymore!
 **Link to work**: https://codepen.io/OlenaDrugalya/full/rNVKprE
 
+### Day 22: March 20, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Started a course about React at udemy.com, made first application using React
+**Link to work**: https://codepen.io/OlenaDrugalya/pen/xxGJYQq
+
+
