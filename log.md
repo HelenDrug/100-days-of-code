@@ -114,4 +114,6 @@ Continue to work on Survey Form for FCC assignment
 **Today's Progress**: Started a course about React at udemy.com, made first application using React
 **Link to work**: https://codepen.io/OlenaDrugalya/pen/xxGJYQq
 
-
+### Day 23-24: March 22, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Week-ends are alwasy tought for study :( But I started 2nd module of the React course about the Next Generation JavaScript. I should say I was impressed about arrow functions sintax - its very unusual to see it shortened so much! Not sure I could get used to that??
