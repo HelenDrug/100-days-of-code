@@ -117,3 +117,7 @@ Continue to work on Survey Form for FCC assignment
 ### Day 23-24: March 22, 2020
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Week-ends are alwasy tought for study :( But I started 2nd module of the React course about the Next Generation JavaScript. I should say I was impressed about arrow functions sintax - its very unusual to see it shortened so much! Not sure I could get used to that??
+
+### Day 25: March 23, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Finished 3rd module of the course - refreshed JavaScript knowledge and learned new things like Spread and Rest operators and destructuring. Did some coding practice on https://jsbin.com/
