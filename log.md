@@ -121,3 +121,8 @@ Continue to work on Survey Form for FCC assignment
 ### Day 25: March 23, 2020
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Finished 3rd module of the course - refreshed JavaScript knowledge and learned new things like Spread and Rest operators and destructuring. Did some coding practice on https://jsbin.com/
+
+### Day 26: March 24, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Started a module about creating React project. Did some installing of npm package manager and Create React App tool. At the end of installation you get ready-to-use React application :) 
+
