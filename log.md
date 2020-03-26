@@ -126,3 +126,10 @@ Continue to work on Survey Form for FCC assignment
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Started a module about creating React project. Did some installing of npm package manager and Create React App tool. At the end of installation you get ready-to-use React application :) 
 
+### Day 27: March 25, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Continued to watch Udemy tutorial and learned about JSX, how to create a functional component, work and re-use it, how to output dinamic content and how to work with props. That was a lot of new info to today :)
+
+### Day 28: March 26, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Continued to watch Udemy tutorial and learned about state and its usage, about methods for handling events and how methods can manipulate the state. Decided to re-fresh JavaScript a bit....may be go for another freeCode Camp certificate. 
