@@ -133,3 +133,8 @@ Continue to work on Survey Form for FCC assignment
 ### Day 28: March 26, 2020
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Continued to watch Udemy tutorial and learned about state and its usage, about methods for handling events and how methods can manipulate the state. Decided to re-fresh JavaScript a bit....may be go for another freeCode Camp certificate. 
+
+### Day 29: March 27, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Continued to watch Udemy tutorial and learned about using the useState() Hook for state manipulation. 
+With using hooks you dont need to create class components, but create component as const arrow function. Also learned about statefull and stateless components.
