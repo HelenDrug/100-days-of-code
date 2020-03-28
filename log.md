@@ -138,3 +138,8 @@ Continue to work on Survey Form for FCC assignment
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Continued to watch Udemy tutorial and learned about using the useState() Hook for state manipulation. 
 With using hooks you dont need to create class components, but create component as const arrow function. Also learned about statefull and stateless components.
+
+### Day 30: March 28, 2020
+##### JavaScript
+**Today's Progress**: Today I spent time to refresh JavaScript before I dig deep into React. Also finished challenge for @FrontendMentor in between.
+
