@@ -143,3 +143,10 @@ With using hooks you dont need to create class components, but create component 
 ##### JavaScript
 **Today's Progress**: Today I spent time to refresh JavaScript before I dig deep into React. Also finished challenge for @FrontendMentor in between.
 
+### Day 31-31: March 30, 2020
+##### JavaScript
+**Today's Progress**:  These past 2 days I was studing JavaScript on freecodecamp.org for JavaScript certification. I was able to finish with basic JavaScript and ES6 part so far. 
+
+### Day 32: March 31, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Continued to watch Udemy tutorial and learned about passing method reference between components, 2-way binding and ways of adding styles into JavaScript files. Now its time to practice with that!
