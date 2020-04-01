@@ -150,3 +150,7 @@ With using hooks you dont need to create class components, but create component 
 ### Day 32: March 31, 2020
 ##### React - The Complete Guide (incl Hooks, React Router, Redux)
 **Today's Progress**: Continued to watch Udemy tutorial and learned about passing method reference between components, 2-way binding and ways of adding styles into JavaScript files. Now its time to practice with that!
+
+### Day 33: April 1, 2020
+##### React - The Complete Guide (incl Hooks, React Router, Redux)
+**Today's Progress**: Worked under assigment given in Udemy course and successfully finished it :) And its NOT a joke on Aprils Fool Day! Below is the code and actually what is on the page
