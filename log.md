@@ -158,3 +158,11 @@ With using hooks you dont need to create class components, but create component 
 ### Day 34: April 2, 2020
 ##### React and JavaScript
 **Today's Progress**: Was learning about regular expressions in JavaScript. Started a new module in Udemy React course  -  Working with Lists and Conditionals. Learned about rendering content conditionally by using ternary operator or simply using IF statement before retruning value. This blows my mind:
+
+### Day 35: April 3, 2020
+##### React and JavaScript
+**Today's Progress**: Continued with regular expressions in JavaScript. In React - learned about outputing lists, updating lists, removing items from list by using state and how to update state without mutation.
+
+### Day 36-37: April 4-5, 2020
+##### Frontend Mentor challenge
+**Today's Progress**: Weekends without javaScript :) I spent them coding #Frontend mentor challenge - Cooming Soon page. I did desktop version so far, mobile version on the way.
