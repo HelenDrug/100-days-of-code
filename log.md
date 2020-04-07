@@ -166,3 +166,11 @@ With using hooks you dont need to create class components, but create component 
 ### Day 36-37: April 4-5, 2020
 ##### Frontend Mentor challenge
 **Today's Progress**: Weekends without javaScript :) I spent them coding #Frontend mentor challenge - Cooming Soon page. I did desktop version so far, mobile version on the way.
+
+### Day 38: April 6, 2020
+##### JavaScript, React
+**Today's Progress**: Today I went through debugging part of JavaScript tutorial and started Basic Data Structure - and first was good old array :) As for React, iI digged deeper into Lists and how to make them flexible with index (if you want to delete item) and key property while rendering list. Next is to finish an assigment.
+
+### Day 39: April 7, 2020
+##### JavaScript
+**Today's Progress**: Today I went through Array data structure JavaScript tutorial and refreshed some methods which mutate array - shift, unshift, pop, push. Did a quick easy webpage to store the knowledge about Data Structures. To be continued...
