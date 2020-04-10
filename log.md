@@ -174,3 +174,15 @@ With using hooks you dont need to create class components, but create component 
 ### Day 39: April 7, 2020
 ##### JavaScript
 **Today's Progress**: Today I went through Array data structure JavaScript tutorial and refreshed some methods which mutate array - shift, unshift, pop, push. Did a quick easy webpage to store the knowledge about Data Structures. To be continued...
+
+### Day 40: April 8, 2020
+##### JavaScript, React
+**Today's Progress**: Today I went through Array data structure JavaScript tutorial and refreshed such methods as Splice(), Slice() and Spread Operator. Also started an assignment from react Udemy course - practice to render list. Did a half of it so far. 
+
+### Day 41: April 9, 2020
+##### JavaScript, React
+**Today's Progress**: Today I went through Array data structure JavaScript tutorial and refreshed such methods as Splice(), Slice() and Spread Operator. Also started an assignment from react Udemy course - practice to render list. Did a half of it so far. 
+
+### Day 42: April 10, 2020
+##### JavaScript, React
+**Today's Progress**: Today I finished 2nd assigment in #Udemy course about React. Also I started to watch React Crash course by #TraversyMedia becasue I feel like its not quite getting to me yet :( I have theory but when it comes to practice, I feel stuck...
