@@ -182,3 +182,17 @@ With using hooks you dont need to create class components, but create component 
 ### Day 41-42: April 9-10, 2020
 ##### JavaScript, React
 **Today's Progress**: I finished 2nd assigment in #Udemy course about React. Also I started to watch React Crash course by #TraversyMedia becasue I feel like its not quite getting to me yet :( I have theory but when it comes to practice, I feel stuck...
+
+### Day 43: April 11, 2020
+##### React
+**Today's Progress**: Today I continued to watch React Crash course by #TraversyMedia and created different components. To manipulate State in functional component for example I used useState hook to be able to use setState function.
+
+### Day 44: April 12, 2020
+##### React
+**Today's Progress**: Today I continued to watch React Crash course by #TraversyMedia and continued the project. Spent most of the day outside though as the weather is awesome and we all need some rest on holidays at least :)))
+
+### Day 45: April 13, 2020
+##### React
+**Today's Progress**: Today I finished to watch React Crash course by #TraversyMedia and finished the project. I didnt watch Redux part though cause i dont think its time yet. Started new course at pluralsight.com
+
+
