@@ -195,4 +195,10 @@ With using hooks you dont need to create class components, but create component 
 ##### React
 **Today's Progress**: Today I finished to watch React Crash course by #TraversyMedia and finished the project. I didnt watch Redux part though cause i dont think its time yet. Started new course at pluralsight.com
 
+### Day 46: April 14, 2020
+##### Product Landing Page
+**Today's Progress**: Got an idea of web shop so I spent my time writing html and working under page layout. 
 
+### Day 47: April 15, 2020
+##### Product Landing Page
+**Today's Progress**: Was working under web shop and was improving my skills with FlexBox and positioning, started making products gallery, it was a productive day :) 
