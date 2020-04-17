@@ -206,3 +206,7 @@ With using hooks you dont need to create class components, but create component 
 ### Day 48: April 16, 2020
 ##### Product Landing Page. React
 **Today's Progress**: Tried some cool CSS effects on webshop page Im creating currently :) Did gallery with images which resize and rotate oh hover. Continued to watch React tutorial at Pluralsight
+
+### Day 49: April 17, 2020
+##### JavaScript, React
+**Today's Progress**: Continued to watch React course at Pluralsight. Continued to refresh knowledge about Object data structure in JavaScript and worked under web page.
