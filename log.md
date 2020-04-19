@@ -210,3 +210,7 @@ With using hooks you dont need to create class components, but create component 
 ### Day 49: April 17, 2020
 ##### JavaScript, React
 **Today's Progress**: Continued to watch React course at Pluralsight. Continued to refresh knowledge about Object data structure in JavaScript and worked under web page.
+
+### Day 50: April 18, 2020
+##### React
+**Today's Progress**: Continued to watch React course at Pluralsight and was working with data by making a small app. But the most exciting is that today is 50 DAYS out of 100! that im coding for at least 1 hour!!!!! YAY me - halfway through :)
