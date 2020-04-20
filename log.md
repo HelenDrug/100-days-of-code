@@ -218,3 +218,7 @@ With using hooks you dont need to create class components, but create component 
 ### Day 51: April 19, 2020
 ##### React
 **Today's Progress**: Continued to watch React course at Pluralsight and understood better now how to take input from the user and interract with it. Also I learned how to work with Ajax calls. This #React course is the best in explanation so far :)
+
+### Day 52: April 20, 2020
+##### React
+**Today's Progress**: Today I started to build Star Match Game from react course at Pluralsight. First I wrote static markup in JSX and logic in JavaScript (all finctions for the game). Than I had to extract reusable components from that. So instead of one main component I ended up with 3 components. After that I worked with view functions - to reflect state on the UI. Such an excersise is truly teaches you a lot!
