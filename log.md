@@ -222,3 +222,10 @@ With using hooks you dont need to create class components, but create component 
 ### Day 52: April 20, 2020
 ##### React
 **Today's Progress**: Today I started to build Star Match Game from react course at Pluralsight. First I wrote static markup in JSX and logic in JavaScript (all finctions for the game). Than I had to extract reusable components from that. So instead of one main component I ended up with 3 components. After that I worked with view functions - to reflect state on the UI. Such an excersise is truly teaches you a lot!
+https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
+
+### Day 53: April 21, 2020
+##### React
+**Today's Progress**: Continued to build Star Match Game from react course at Pluralsight. I worked with behaviour functions which behaves differently depending on which number used clicked and changed state accordingly. After that I worked under Game Over implementation - after game is over, player clicks on the button and state re-sets. 
+https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
+
