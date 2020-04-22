@@ -229,3 +229,7 @@ https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 **Today's Progress**: Continued to build Star Match Game from react course at Pluralsight. I worked with behaviour functions which behaves differently depending on which number used clicked and changed state accordingly. After that I worked under Game Over implementation - after game is over, player clicks on the button and state re-sets. 
 https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 
+### Day 54: April 22, 2020
+##### React
+**Today's Progress**: Continued to build Star Match Game from react course at Pluralsight. I learned about using side-effects hooks such as useEffect() - it helped to iteract with the timer in the game. And also I learned about unmounting and re-mounting components using KEY property of the component. 
+
