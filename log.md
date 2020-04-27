@@ -247,4 +247,4 @@ https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 
 ### Day 58-59: April 26-27, 2020
 ##### React
-**Today's Progress**: Today I 
+**Today's Progress**: Over the past 2 days I was working under data tree implementation using React. Not an easy task for the beginner, but I slowly getting there :) Also I learned about Prop Types in #React
