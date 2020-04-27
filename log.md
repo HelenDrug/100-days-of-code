@@ -233,3 +233,18 @@ https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 ##### React
 **Today's Progress**: Continued to build Star Match Game from react course at Pluralsight. I learned about using side-effects hooks such as useEffect() - it helped to iteract with the timer in the game. And also I learned about unmounting and re-mounting components using KEY property of the component. 
 
+### Day 55: April 23, 2020
+##### React
+**Today's Progress**: Continued to build Star Match Game from react course at Pluralsight. I learned how to create customs hook to include all state interactions and computations and than used that hook in main game component. The game component became smaller and more neat. All what game component do is exctracting data from custom hook. 
+
+### Day 56: April 24, 2020
+##### React
+**Today's Progress**: Today I watched the last video from #PluralSight react course and it was about setting up environment for React project. Next I’m going to learn about styles components
+
+### Day 57: April 25, 2020
+##### React, JavaScript
+**Today's Progress**: today I was going through Object Oriented and Functional programming on #freeCodeCamp and I also started a project where I need to render a data tree with React components 
+
+### Day 58-59: April 26-27, 2020
+##### React
+**Today's Progress**: Today I 
