@@ -248,3 +248,18 @@ https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 ### Day 58-59: April 26-27, 2020
 ##### React
 **Today's Progress**: Over the past 2 days I was working under data tree implementation using React. Not an easy task for the beginner, but I slowly getting there :) Also I learned about Prop Types in #React
+
+### Day 60: April 28, 2020
+##### React
+**Today's Progress**: today I was really struggling with data tree :( I have got a component Tree which renders TreeNode. So Tree shows parent nodes from data, but refuse to show children nodes :( and I cannot really figure out how to implement that.....makes me sad
+
+### Day 61: April 29, 2020
+##### React
+**Today's Progress**: Today I continued to work under implementation of data tree with #React. With the help of @MrDarrenV I fixed few issues and now my tree renders both parent and children :) - happy dance - styling for tomorrow!
+
+### Day 62: April 30, 2020
+##### React
+**Today's Progress**: Today I watched video tutorial on #Pluralsight about building quizz with React components. It had different approach of adding props. Instead of adding all props to the component (f.ex const Author =(props)=>{}), the guy added specified props (f.ex const Author =({title, books})=>{})....to me passing just props is more convenient
+Example here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/AuthorQuiz.js
+
+
