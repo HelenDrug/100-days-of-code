@@ -262,4 +262,11 @@ https://codesandbox.io/s/the-star-match-game-ezl6d?file=/src/StarMatch.js
 **Today's Progress**: Today I watched video tutorial on #Pluralsight about building quizz with React components. It had different approach of adding props. Instead of adding all props to the component (f.ex const Author =(props)=>{}), the guy added specified props (f.ex const Author =({title, books})=>{})....to me passing just props is more convenient
 Example here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/AuthorQuiz.js
 
+### Day 63: May 1, 2020
+##### React
+**Today's Progress**: Today I created a small online game - Author Quizz using React to practice the knowledge I already have.
+Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/AuthorQuiz.js
 
+### Day 64: May 2, 2020
+##### React
+**Today's Progress**: Today I learned about styling React components. I learned how to set styles and classes dynamically. I was introduced to Radium and learned hot to use pseudo-classes and media-queries with Radium.  
