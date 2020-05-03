@@ -270,3 +270,7 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 64: May 2, 2020
 ##### React
 **Today's Progress**: Today I learned about styling React components. I learned how to set styles and classes dynamically. I was introduced to Radium and learned hot to use pseudo-classes and media-queries with Radium.  
+
+### Day 65: May 3, 2020
+##### React
+**Today's Progress**: Today I learned about styled components in React. In order to use them, you need to import styled-components library first, then you create a component with CSS styles in it and use that component in your main app file like this:
