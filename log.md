@@ -274,3 +274,11 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 65: May 3, 2020
 ##### React
 **Today's Progress**: Today I learned about styled components in React. In order to use them, you need to import styled-components library first, then you create a component with CSS styles in it and use that component in your main app file like this:
+
+### Day 66: May 4, 2020
+##### JavaScript, React
+**Today's Progress**: Today I finished Functional Programming section in JavaScript on #freeCodeCamp and started Intermediate Algorithm Scripting challenges. I continued to work under data tree in React, implemented tree with parents and children and added some styling to it.
+
+### Day 67: May 5, 2020
+##### JavaScript, React
+**Today's Progress**: Today I finished a couple of Intermediate Algorithm Scripting challenges on #freeCodeCamp. Also I learned about Forms in #react - how to create, how to allow user input, how to validate. But before I will implement Form for Author Quiz, I added routing first.
