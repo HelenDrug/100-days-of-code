@@ -282,3 +282,26 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 67: May 5, 2020
 ##### JavaScript, React
 **Today's Progress**: Today I finished a couple of Intermediate Algorithm Scripting challenges on #freeCodeCamp. Also I learned about Forms in #react - how to create, how to allow user input, how to validate. But before I will implement Form for Author Quiz, I added routing first.
+
+### Day 68: May 6, 2020
+##### React
+**Today's Progress**: Today I was working under data tree project, mainly with styling. I added:
+- caret class to the parent and implemented chamge of classes dynamically
+- if parent has children, caret is pointing to the right
+- if parent is open, caret is pointing down
+- started implementation of showing JSON object when you click on tree node
+
+### Day 69: May 7, 2020
+##### React
+**Today's Progress**: Today I learned how to create Form in React. I have added a simple form to the Author Quiz game and i learned 
+- how to bind value of the input to component state
+- how to handle onChange and onSubmit events
+
+### Day 70: May 9, 2020
+##### React
+**Today's Progress**: Today I was working under data tree project. I learned how to pass data from one child component to another child component using parent as intermediate :) I was really surprised I could implement that correct from first try
+:)
+
+### Day 71-72: May 9, 2020
+##### React
+**Today's Progress**: Continued to work under data tree project. Added some light styling, added some reusable components which Im planning to use in the future components - you can see them on the right side of page - its Path, Arguments, Errors and Artifacts. Now its super easy to combine them and form new component to display a tree node.
