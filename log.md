@@ -302,6 +302,45 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 **Today's Progress**: Today I was working under data tree project. I learned how to pass data from one child component to another child component using parent as intermediate :) I was really surprised I could implement that correct from first try
 :)
 
-### Day 71-72: May 9, 2020
+### Day 71-72: May 10-11, 2020
 ##### React
 **Today's Progress**: Continued to work under data tree project. Added some light styling, added some reusable components which Im planning to use in the future components - you can see them on the right side of page - its Path, Arguments, Errors and Artifacts. Now its super easy to combine them and form new component to display a tree node.
+
+### Day 73: May 12 , 2020
+##### JavaScript
+**Today's Progress**: Today I read about React props but was not coding anything. I was chilling with Java Script algorythms instead.....well, I would not call that real "chilling" as sometimes challenges were pretty difficult :) Working my way to JS certificate on #freeCodeCamp
+
+### Day 74: May 13 , 2020
+##### JavaScript, #React
+**Today's Progress**: Continued today solving Java Script algorythms scripting challanges on #freeCodeCamp. Started learning CSS modules in React.
+
+### Day 75: May 14 , 2020
+##### JavaScript
+**Today's Progress**: Continued today solving Java Script algorythms scripting challanges on #freeCodeCamp. That took most of my time today.
+
+### Day 76-77: May 15-16, 2020
+##### CSS, HTML
+**Today's Progress**: These 2 days I was working under @frontendmentor challenge. I realized I never used CSS Grid , so I spent some time reading material and than trying to implement it
+
+### Day 78: May 17, 2020
+##### CSS
+**Today's Progress**: Today i continued working with CSS Grid, i watched few episodes on Grid from @wesbos and 1/ I installed and felt in love with Emmet for Sublime 2/I understood bacis concept of Grid
+
+### Day 79: May 18, 2020
+##### CSS
+**Today's Progress**: Today i continued working with CSS Grid, i learned so far:
+- grid-auto-rows/columns - defines implicitly what size should be any extra added rows/columns
+- grid-auto-flow - defines if new items should be placed as columns or as rows
+- fractional units (fr) - grid-template-columns: 1fr - it defines how much free space the column would take
+- repeat() - its repeats what size we want and how many times (grid-template-columns: repeat(4, 1fr);
+
+### Day 80: May 19, 2020
+##### CSS
+**Today's Progress**: Today i continued working with CSS Grid, i learned so far:
+- auto-fill prop - fills the items into grid implicitly
+- minmax() - accepts min parameter and max parameter and creates area within given params
+- grid-template-areas - you name specific parts of the grid depending on it's content
+
+### Day 81: May 20, 2020
+##### CSS
+**Today's Progress**: Today i continued working with CSS Grid, i have created Albums Gallery using nested grids and started to work under CodePen clone.
