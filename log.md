@@ -344,3 +344,11 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 81: May 20, 2020
 ##### CSS
 **Today's Progress**: Today i continued working with CSS Grid, i have created Albums Gallery using nested grids and started to work under CodePen clone.
+
+### Day 82-83: May 21-22, 2020
+##### CSS
+**Today's Progress**: These past 2 days I was working under CodePen clone and here is what I ended up with :)
+
+### Day 84: May 23, 2020
+##### JavaScript
+**Today's Progress**: Was working hard under JavaScript certification from #freeCodeCamp and finally got it :)
