@@ -352,3 +352,7 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 84: May 23, 2020
 ##### JavaScript
 **Today's Progress**: Was working hard under JavaScript certification from #freeCodeCamp and finally got it :)
+
+### Day 85: May 25, 2020
+##### React
+**Today's Progress**: Today was not really code-related. I was learning some #React and mainly checking LinkedIn job offers. Decided to do it on the daily basis to at least know the demand...not that much offers at my place though /
