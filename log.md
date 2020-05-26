@@ -356,3 +356,7 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 85: May 25, 2020
 ##### React
 **Today's Progress**: Today was not really code-related. I was learning some #React and mainly checking LinkedIn job offers. Decided to do it on the daily basis to at least know the demand...not that much offers at my place though /
+
+### Day 86: May 26, 2020
+##### React
+**Today's Progress**: I got back to my data tree project and today I learned how to render object to DOM with key-value pair:
