@@ -360,3 +360,22 @@ Link to project here: https://codesandbox.io/s/authorquiz-z39pz?file=/src/Author
 ### Day 86: May 26, 2020
 ##### React
 **Today's Progress**: I got back to my data tree project and today I learned how to render object to DOM with key-value pair:
+
+### Day 87: May 27, 2020
+##### React
+**Today's Progress**: Continue work under Test report project. Was working mainly with rendering classes dynamically and changing style accordingly. Made panel with filter and search areas.
+
+### Day 88: May 28, 2020
+##### React
+**Today's Progress**: Continue work under Test report project. Re-did Test Status filter section and now its checkbox instead of buttons. Background color is being changed now dynamically according to test status - if test is failed, background turns to red, otherwise green. Looks much better now :)
+
+### Day 89: May 29, 2020
+##### CSS
+**Today's Progress**: Today I was chilling with CSS Grid. I started a webpage for Taco restaurant. Its not finished yet, but what I already did is fully reponsive and I was using only Grid (well, one time i used FlexBox ha-ha). No Bootstrap in that.
+Pretty amazing stuff.
+
+### Day 90: May 31, 2020
+##### CSS
+**Today's Progress**: Finished Taco web site using CSS Grid only. Added media-queries to change the grid layout according to web page size. Added some javascript to create humburger menu and expand it on button click. Learned a lot of new stuff.
+
+
