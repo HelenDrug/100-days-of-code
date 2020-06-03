@@ -378,6 +378,6 @@ Pretty amazing stuff.
 ##### CSS
 **Today's Progress**: Finished Taco web site using CSS Grid only. Added media-queries to change the grid layout according to web page size. Added some javascript to create humburger menu and expand it on button click. Learned a lot of new stuff.
 
-### Day 91-92: May 1-2, 2020
+### Day 91-92-93: May 1-2-3, 2020
 ##### CSS
-**Today's Progress**: Was working under #FrontendMentor challange these weekends and was practicing CSS Grid mostly. Ended up with a quite nice page.
+**Today's Progress**: Was working under #FrontendMentor challange these weekends and was practicing CSS Grid mostly. Ended up with a quite nice page. Took me 3 days to compelete desktop + mobile version.
