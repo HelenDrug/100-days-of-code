@@ -381,3 +381,7 @@ Pretty amazing stuff.
 ### Day 91-92-93: May 1-2-3, 2020
 ##### CSS
 **Today's Progress**: Was working under #FrontendMentor challange these weekends and was practicing CSS Grid mostly. Ended up with a quite nice page. Took me 3 days to compelete desktop + mobile version.
+
+### Day 94: May 4, 2020
+##### CSS
+**Today's Progress**: Finished last project on practicing CSS Grid - blog page. No FlexBox used. Now I can cross out CSS Grid from my to-do list and continue with React project tomorrow. Link to blog page: https://github.com/HelenDrug/Blog_layout
