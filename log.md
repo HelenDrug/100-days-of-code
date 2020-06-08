@@ -385,3 +385,12 @@ Pretty amazing stuff.
 ### Day 94: May 4, 2020
 ##### CSS
 **Today's Progress**: Finished last project on practicing CSS Grid - blog page. No FlexBox used. Now I can cross out CSS Grid from my to-do list and continue with React project tomorrow. Link to blog page: https://github.com/HelenDrug/Blog_layout
+
+### Day 95: May 6, 2020
+##### React
+**Today's Progress**: Continued to work under Test Report project.Added additional dynamic styling and few more reusable components.It’s nice to do what you like again.
+
+### Day 96: May 7, 2020
+##### React
+**Today's Progress**:  Continued with Test Report. Was mainly refactoring existing code - took almost more than a half of my time :( was reading about how to use Monentum.js because I need to show Test duration in appropriate format
+
