@@ -394,3 +394,28 @@ Pretty amazing stuff.
 ##### React
 **Today's Progress**:  Continued with Test Report. Was mainly refactoring existing code - took almost more than a half of my time :( was reading about how to use Monentum.js because I need to show Test duration in appropriate format
 
+### Day 97: May 8, 2020
+##### React
+**Today's Progress**:  Continued with Test Report. Added more reusable components to be able to compose complex components.
+Created Test Suite component in like 5 min because all what I did was adding existing small components to it.I love it :)
+
+### Day 98: May 10, 2020
+##### React
+**Today's Progress**:  Continued with Test Report. Finished rendering duration for each component - thanks to @ecgarthur! :)
+Learned how to shorten path links and rendered those as well. Finsihed styling of smaller componets. Now project started to look like something decent. 
+
+### Day 99: May 11, 2020
+##### React
+**Today's Progress**: Continued with Test Report. Not much coding for today, was fixing minor issues. Learned how to pass props from child to child using parent as intermediate - some crazy stuff Face with tears of joy still overwhelmed with that....but I’m liking React more each day!
+
+### Day 100: May 12, 2020
+--END OF 100DAYS-- I have made it and survived and got much better in coding than I was before. I accomplished:
+- Responsive Web Design certificate (+ 5 diff web pages)
+- JavaScript Algorythms and Data Structure certification (+ 20 challenges solved)
+- WordPress personal portfolio site
+- FrontEnd Mentor challenges - 3 websites on GitHub
+- CSS - FlexBox and Grid (+ 4websites to practice)
+- React basics (+ 7 small finished react web-apps)
+Plus tons of new connections and followers and really nice people :)
+Looking forward to Round 2!
+
