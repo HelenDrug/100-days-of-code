@@ -419,3 +419,10 @@ Learned how to shorten path links and rendered those as well. Finsihed styling o
 Plus tons of new connections and followers and really nice people :)
 Looking forward to Round 2!
 
+ROUND 2
+### R2_D1: May 15, 2020
+Today Im setting up my goals for the next round:
+ - Learn React Hooks and Redux
+- Continue practicing HTML and CSS by building websites
+- Finish Test Report project and start another one
+- Get Frontend Libraries Certification
