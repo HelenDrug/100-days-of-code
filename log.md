@@ -378,37 +378,37 @@ Pretty amazing stuff.
 ##### CSS
 **Today's Progress**: Finished Taco web site using CSS Grid only. Added media-queries to change the grid layout according to web page size. Added some javascript to create humburger menu and expand it on button click. Learned a lot of new stuff.
 
-### Day 91-92-93: May 1-2-3, 2020
+### Day 91-92-93: June 1-2-3, 2020
 ##### CSS
 **Today's Progress**: Was working under #FrontendMentor challange these weekends and was practicing CSS Grid mostly. Ended up with a quite nice page. Took me 3 days to compelete desktop + mobile version.
 
-### Day 94: May 4, 2020
+### Day 94: June 4, 2020
 ##### CSS
 **Today's Progress**: Finished last project on practicing CSS Grid - blog page. No FlexBox used. Now I can cross out CSS Grid from my to-do list and continue with React project tomorrow. Link to blog page: https://github.com/HelenDrug/Blog_layout
 
-### Day 95: May 6, 2020
+### Day 95: June 6, 2020
 ##### React
 **Today's Progress**: Continued to work under Test Report project.Added additional dynamic styling and few more reusable components.It’s nice to do what you like again.
 
-### Day 96: May 7, 2020
+### Day 96: June 7, 2020
 ##### React
 **Today's Progress**:  Continued with Test Report. Was mainly refactoring existing code - took almost more than a half of my time :( was reading about how to use Monentum.js because I need to show Test duration in appropriate format
 
-### Day 97: May 8, 2020
+### Day 97: June 8, 2020
 ##### React
 **Today's Progress**:  Continued with Test Report. Added more reusable components to be able to compose complex components.
 Created Test Suite component in like 5 min because all what I did was adding existing small components to it.I love it :)
 
-### Day 98: May 10, 2020
+### Day 98: June 10, 2020
 ##### React
 **Today's Progress**:  Continued with Test Report. Finished rendering duration for each component - thanks to @ecgarthur! :)
 Learned how to shorten path links and rendered those as well. Finsihed styling of smaller componets. Now project started to look like something decent. 
 
-### Day 99: May 11, 2020
+### Day 99: June 11, 2020
 ##### React
 **Today's Progress**: Continued with Test Report. Not much coding for today, was fixing minor issues. Learned how to pass props from child to child using parent as intermediate - some crazy stuff Face with tears of joy still overwhelmed with that....but I’m liking React more each day!
 
-### Day 100: May 12, 2020
+### Day 100: June 12, 2020
 --END OF 100DAYS-- I have made it and survived and got much better in coding than I was before. I accomplished:
 - Responsive Web Design certificate (+ 5 diff web pages)
 - JavaScript Algorythms and Data Structure certification (+ 20 challenges solved)
@@ -420,9 +420,23 @@ Plus tons of new connections and followers and really nice people :)
 Looking forward to Round 2!
 
 ROUND 2
-### R2_D1: May 15, 2020
+### R2_Day 1: June 15, 2020
 Today Im setting up my goals for the next round:
  - Learn React Hooks and Redux
 - Continue practicing HTML and CSS by building websites
 - Finish Test Report project and start another one
 - Get Frontend Libraries Certification
+
+### R2_Day 2: June 16, 2020
+##### Bootstrap
+**Today's Progress**: Started Frontend Liraries section on @freeCodeCamp. Finished Bootsrap library chellenge and created jQuery playground for the next study of jQuery:
+
+### R2_Day 3: June 17, 2020
+##### jQuery
+**Today's Progress**: Finished jQuery library section today. Next one is Intro to SASS.
+Continued to work under Test Report as well.
+
+### R2_Day 4: June 18, 2020
+##### Bootstrap, jQuery
+**Today's Progress**: Today I made a small project to practice Bootstrap library and jQuery. No CSS was used here.
+Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
