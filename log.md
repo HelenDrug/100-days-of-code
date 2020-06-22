@@ -440,3 +440,18 @@ Continued to work under Test Report as well.
 ##### Bootstrap, jQuery
 **Today's Progress**: Today I made a small project to practice Bootstrap library and jQuery. No CSS was used here.
 Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
+
+### R2_Day 5: June 19, 2020
+##### SASS
+**Today's Progress**: Today I went through Introduction to SASS on @freeCodeCamp. Felt like Java-CSS-Script with all those variables and functions and loops :))))
+
+### R2_Day 6: June 20, 2020
+##### React
+**Today's Progress**: Today I started React library section of Frontend Libraries certification on 
+@freeCodeCamp. Going to work under this section for a few days 
+
+### R2_Day 7: June 22, 2020
+##### React
+**Today's Progress**: Today I continued React library section on @freeCodeCamp. Discovered that common pattern is to minimize statefulness and to create stateless functional components wherever possible. This helps to keep state in a specific area of application. This improves development and maintenance of app by making it easier to follow how changes to state affect its behavior. 
+
+
