@@ -454,4 +454,10 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 ##### React
 **Today's Progress**: Today I continued React library section on @freeCodeCamp. Discovered that common pattern is to minimize statefulness and to create stateless functional components wherever possible. This helps to keep state in a specific area of application. This improves development and maintenance of app by making it easier to follow how changes to state affect its behavior. 
 
+### R2_Day 8: June 23, 2020
+##### React
+**Today's Progress**: Today I continued React library section on @freeCodeCamp and finished it. Learned about using complex conditional operator && to perform conditional logic in a more concise way. This is possible because you want to check if a condition is true, and if it is, return some markup. Here's an example: {condition && <p>markup</p>}
 
+### R2_Day 9: June 24, 2020
+##### React
+**Today's Progress**: I made a lot of progress lately with Test Report project and im almost on finish line. Its amazing how much progress I made since th beginning of React study. Still lots to learn, but at least I can have something in portfolio now :)
