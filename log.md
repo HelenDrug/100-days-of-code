@@ -461,3 +461,11 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 ### R2_Day 9: June 24, 2020
 ##### React
 **Today's Progress**: I made a lot of progress lately with Test Report project and im almost on finish line. Its amazing how much progress I made since th beginning of React study. Still lots to learn, but at least I can have something in portfolio now :)
+
+### R2_Day 10: June 25, 2020
+##### React
+**Today's Progress**: Was working on Test Report....finished the whole logic, was re-factoring a bit, did some styling changes. Started to work under test Filter implementation, but got overwhelmed so decided to leave it for tomorow's fresh head :)
+
+### R2_Day 12: June 28, 2020
+##### React
+**Today's Progress**: Was working under Progress Bar implementation for fun-react-lib open sourse project. Was quite easy to implement. more issues I had with Git :/ But im slowly learning....thanks to @NehemiahKiv for such a great possibility!
