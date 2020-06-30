@@ -469,3 +469,11 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 ### R2_Day 12: June 28, 2020
 ##### React
 **Today's Progress**: Was working under Progress Bar implementation for fun-react-lib open sourse project. Was quite easy to implement. more issues I had with Git :/ But im slowly learning....thanks to @NehemiahKiv for such a great possibility!
+
+### R2_Day 13: June 29, 2020
+##### React
+**Today's Progress**: I learned about working with CSS Modules in React. CSS Modules allows to automatically create a unique classname without worrying about naming clashes. You can also compose a new class by inheriting styles from other classes, declare global classes or use multiple classes. Very powerful concept.
+
+### R2_Day 14: June 30, 2020
+##### React, #CSS, #HTML
+**Today's Progress**: Was working under Test Report projects today. When I had 30 min break from react, i did @FronetendMentor challenge - Huddle landing page with a single introductory section. 
