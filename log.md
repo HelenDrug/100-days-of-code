@@ -477,3 +477,7 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 ### R2_Day 14: June 30, 2020
 ##### React, #CSS, #HTML
 **Today's Progress**: Was working under Test Report projects today. When I had 30 min break from react, i did @FronetendMentor challenge - Huddle landing page with a single introductory section. 
+
+### R2_Day 15: July 2, 2020
+##### React
+**Today's Progress**: Was working under Test Report projects. Spend tons of time implementing check box group component. Didndt expect that it would be so difficult :/ But here it is:
