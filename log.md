@@ -485,3 +485,13 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 ### R2_Day 16: July 3, 2020
 ##### React
 **Today's Progress**: Today I learned about how to debug React apps. You can find logical errors  using dev tools, you can istall Chrome extention and work with React Developer Tools, or you can use Error Boundaries component if you have React version 16+. This component catches errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed. Error boundaries catch errors during rendering, in lifecycle methods, and in constructors of the whole tree below them.
+
+### R2_Day 17: July 4, 2020
+##### React
+**Today's Progress**: Today I learned about Component Lifecycle. Lifecycle available only in class-based components and upon its creation such methods are called:
+-constructor (to initialize state only)
+- getDerivedStateFromProps (props, state) - to sync state if props were changed
+- render() - to render JSX to the DOM
+- child components render
+- componentDidMount() - here you can use side-effects 
+
