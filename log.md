@@ -495,3 +495,28 @@ Link to project: https://codepen.io/OlenaDrugalya/pen/NWxbJKq
 - child components render
 - componentDidMount() - here you can use side-effects 
 
+### R2_Day 18: July 6, 2020
+##### React
+**Today's Progress**: Today I continued topic about Components Lifecycle and learned about update lifecycle for props and state in class-based component.
+For functional component a useEffect() hook should be used. Hooks are functions that let you “hook into” React state and lifecycle features from function components. So, useEffect() hook is used for performing any side-effects. 
+
+### R2_Day 19: July 7, 2020
+##### React
+**Today's Progress**: Today i was learning about optimization of React app with diff approaches:
+- using function ShouldComponentUpdate (for class-based components)
+- using PureComponent(for class-based)
+- using React.memo(for functional components)
+
+### R2_Day 20: July 8, 2020
+##### React
+**Today's Progress**: Today I learned about High Order Components (HOC) - an advanced element for reusing logic in React components. HOC take one or more components as arguments, and return a new upgraded component:
+const HighOrderComponent = (WrappedComponent, className)=>{
+    return props => (
+        <div className = {className}>
+            <WrappedComponent {...props}/>
+        </div> )}
+
+### R2_Day 21: July 10, 2020
+##### React
+**Today's Progress**: Today I learned about Context API - a JavaScript object which can be passed between React components without using props.
+It helps with props drilling, very useful in large applications with many components and props passing through. You use Context.Provider on the parent component and Context.Consumer on the child component.
