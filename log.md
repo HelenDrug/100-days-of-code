@@ -520,3 +520,15 @@ const HighOrderComponent = (WrappedComponent, className)=>{
 ##### React
 **Today's Progress**: Today I learned about Context API - a JavaScript object which can be passed between React components without using props.
 It helps with props drilling, very useful in large applications with many components and props passing through. You use Context.Provider on the parent component and Context.Consumer on the child component.
+
+### R2_Day 22: July 13, 2020
+##### React
+**Today's Progress:** Today I spent time on my portfolio. I took a course on preparation for job hunt and it appeared that there are many things you should consider before you apply for job. There is even a research you should do to be able to use certain words in CV
+
+### R2_Day 23: July 13, 2020
+##### React
+**Today's Progress:** Since my kids are back to summer activities, I have time to work under Test Report. Still cannot figure out though how to implement filter based on checkbox selected :((( makes me sad
+
+### R2_Day 23: July 13, 2020
+##### React
+**Today's Progress:** I have been refactoring code for Test Report. IMPORTANT! to self - dont forget to commit changes often, so you can roll it all back if your code stops to work after shitty refactoring ;)
