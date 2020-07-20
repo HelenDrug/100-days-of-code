@@ -529,6 +529,16 @@ It helps with props drilling, very useful in large applications with many compon
 ##### React
 **Today's Progress:** Since my kids are back to summer activities, I have time to work under Test Report. Still cannot figure out though how to implement filter based on checkbox selected :((( makes me sad
 
-### R2_Day 23: July 13, 2020
+### R2_Day 24: July 15, 2020
 ##### React
 **Today's Progress:** I have been refactoring code for Test Report. IMPORTANT! to self - dont forget to commit changes often, so you can roll it all back if your code stops to work after shitty refactoring ;)
+
+### R2_Day 25: July 17, 2020
+##### React
+**Today's Progress:**  Was busy transferring Test Report project from create-React-app to plain HTML page (per client request). To do that you need: 
+- add 3 scripts to head section: React, React-dom and Babel
+- add div with id=root to body
+- add script with type=text/babel right after div in body and paste there all JS code
+- add ReactDOM.render() with special params to end of babel script
+You also need to adjust all your hooks or icons - everything you imported to project before needs to be adjusted
+
