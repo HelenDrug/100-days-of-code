@@ -542,3 +542,14 @@ It helps with props drilling, very useful in large applications with many compon
 - add ReactDOM.render() with special params to end of babel script
 You also need to adjust all your hooks or icons - everything you imported to project before needs to be adjusted
 
+### R2_Day 26: July 20, 2020
+##### React
+**Today's Progress:**  Reading took the most of my time today. I found few interesting articles about React Tips & Tricks and i did learn a few from them. 
+I discovered that you can use React.Fragment as a root element as a template (it replaces div or empty tag in return method):
+const Login = () =>
+  <React.Fragment><input name="login"/><input name="password"/></React.Fragment>;
+  
+### R2_Day 27: July 22, 2020
+##### React
+**Today's Progress:** Finally I managed to implement test Report filter feature - took me a while....Project is ready now to be introduced to a customer, may be some debugging still be needed. Next week I'll tell you how it went and what was the feedback :)
+Now I need to find something new to work on.
