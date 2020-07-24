@@ -553,3 +553,8 @@ const Login = () =>
 ##### React
 **Today's Progress:** Finally I managed to implement test Report filter feature - took me a while....Project is ready now to be introduced to a customer, may be some debugging still be needed. Next week I'll tell you how it went and what was the feedback :)
 Now I need to find something new to work on.
+
+### R2_Day 28: July 24, 2020
+##### React, Bootstrap
+**Today's Progress:** Today I implemented some e-commerce feature on React - adding items to the cart.
+Technologies used: #React and #Bootstrap. Time spent : 2 hours.
